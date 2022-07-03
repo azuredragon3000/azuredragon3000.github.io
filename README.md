@@ -25,7 +25,7 @@ So, to conclude, RecyclerView is a more flexible control for handling "list data
 #batch file basic.  
 #gradle script basic.  
 #procese excel poi java.  
-#process strijg java pattern.  
+#process string java pattern.  
 #create folder and list folder in java.  
 #read and write file basic in java.  
 #handlel databasee
