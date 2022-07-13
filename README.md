@@ -5,3 +5,6 @@
 # create folder and list folder in java.  
 # read and write file basic in java.  
 # handlel databasee
+# change visibility in github
+
+# how to find size of github
