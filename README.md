@@ -11,7 +11,7 @@ setup enviroment then we can use -> ' call '
 example we have a file a.exe we can call directly to run
 c:\a.exe param1 param2
 
-
+cd %~d0%~p0 -> go to currently path
 
 # gradle script basic.  
 # procese excel poi java.  
