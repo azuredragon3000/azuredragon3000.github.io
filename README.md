@@ -35,6 +35,5 @@ FOR /L %%G IN (1,1,%MARCO_ITERATION_COUNT%) DO (call :subroutine "%%G")
 
 
 # gradle script basic.   
-# process string java pattern.  
 # change visibility in github
 # how to find size of github
