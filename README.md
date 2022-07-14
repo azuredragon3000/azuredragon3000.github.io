@@ -37,19 +37,19 @@ FOR /L %%G IN (1,1,%MARCO_ITERATION_COUNT%) DO (call :subroutine "%%G")
 # gradle script basic.   
 # change visibility in github
 go to setting project  
-<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/settting project.png" width="500" height="500" />  
+<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/settting project.png"  />  
 scroll down to danger zone to change visibility    
-<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/dangerzone.png" width="500" height="500" />  
+<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/dangerzone.png"  />  
 
 # generate token github  
 go to setting account as below  
-<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/setting.png" width="500" height="500" />  
+<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/setting.png"  />  
 go to developer setting  
-<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/developersetting.png" width="500" height="500" />   
+<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/developersetting.png"  />   
 generate token  
-<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/generate token github.png" width="500" height="500" />   
+<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/generate token github.png"  />   
 
 # how to find size of github
 to find size the respository github as below image  
-<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/2022-07-14_14h58_21.png" width="800" height="800" />  
+<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/2022-07-14_14h58_21.png"  />  
 remember for free user we only have 500 MB for stored data  
