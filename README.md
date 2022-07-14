@@ -47,7 +47,7 @@ go to setting account as below
 go to developer setting  
 <img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/developersetting.png" width="500" height="500" />   
 generate token  
-<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/developersetting.png" width="500" height="500" />   
+<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/generate token github.png" width="500" height="500" />   
 
 # how to find size of github
 to find size the respository github as below image  
