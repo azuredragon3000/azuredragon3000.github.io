@@ -38,5 +38,5 @@ FOR /L %%G IN (1,1,%MARCO_ITERATION_COUNT%) DO (call :subroutine "%%G")
 # change visibility in github
 # how to find size of github
 to find size the respository github as below image  
-<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/2022-07-14_14h58_21.png" width="200" height="200" />  
+<img src="https://github.com/azuredragon3000/azuredragon3000.github.io/blob/main/2022-07-14_14h58_21.png" width="1000" height="1000" />  
 remember for free user we only have 500 MB for stored data  
