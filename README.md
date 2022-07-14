@@ -34,11 +34,8 @@ for loop
 FOR /L %%G IN (1,1,%MARCO_ITERATION_COUNT%) DO (call :subroutine "%%G")
 
 
-# gradle script basic.  
-# procese excel poi java.  
+# gradle script basic.   
 # process string java pattern.  
 # create folder and list folder in java.  
-# read and write file basic in java.  
-# handlel databasee
 # change visibility in github
 # how to find size of github
