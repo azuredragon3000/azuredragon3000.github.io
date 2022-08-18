@@ -1,5 +1,8 @@
 # batch file basic.  
 
+https://github.com/googleapis/google-api-java-client-services/tree/main/clients/google-api-services-storage/v1  
+https://github.com/googleapis/google-api-java-client-services/tree/main/clients/google-api-services-storage/v1/2.0.0/com/google/api/services/storage  
+
 @echo on  
 cd /d c:\ -> go to c disk  
 cd ../../ -> back to previous folder 
